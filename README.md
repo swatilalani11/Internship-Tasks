@@ -30,7 +30,3 @@ It accepts GET or POST requests with index and date parameters and returns the e
 Final Task4:
 Task Description: Create a simple Flask API with two routes: / and /test.
 Both routes support GET and POST requests, return a JSON message, and echo any JSON data sent in POST requests.
-
-Final Task5:
-Task Description: Create a Flask API to calculate intraday profit/loss for a given stock.
-Supports GET and POST requests with stock_name, start_date, end_date, entry_time, and exit_time as inputs, and returns daily and overall P/L in JSON format.
